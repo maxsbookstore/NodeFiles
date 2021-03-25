@@ -1,0 +1,22 @@
+{
+  "name": "firstpackage",
+  "version": "1.0.0",
+  "description": "### Step 1",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsbookstore/NodeFiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsbookstore/NodeFiles/issues"
+  },
+  "homepage": "https://github.com/maxsbookstore/NodeFiles#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
