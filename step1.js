@@ -1,4 +1,4 @@
-const firststep = require('firststep');
+const fs = require('fs');
 const process = require('process');
 
 /** read file at path and print it out. */
